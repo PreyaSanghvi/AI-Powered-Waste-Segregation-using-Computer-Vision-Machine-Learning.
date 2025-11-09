@@ -1,0 +1,1 @@
+AI-powered waste segregation system using computer vision and machine learning to classify different waste types. Includes model training, real-time classification via frontend interface, and exploration of few-shot learning for new waste categories.
